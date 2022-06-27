@@ -1,7 +1,7 @@
 {
   "name": "handpose",
   "version": "0.1.0",
-  "homepage": "https://abhyaskanaujia.github.io/handpose-detection",
+  "homepage": "https://abhyaskanaujia.github.io/Handpose-Detection-App/",
   "private": true,
   "dependencies": {
     "@tensorflow-models/handpose": "^0.0.7",
