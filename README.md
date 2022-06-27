@@ -1,6 +1,6 @@
 # Handpose Detection App
 
-This is a simple app that uses your camera to detect a hand and draws a mesh over over it.
+This is a simple app that uses your camera to detect a hand and draws a mesh over it.
 
 # Live Demo
 
