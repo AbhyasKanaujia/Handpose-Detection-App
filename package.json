@@ -1,6 +1,7 @@
 {
   "name": "handpose",
   "version": "0.1.0",
+  "homepage": "http://abhyaskanaujia.github.io/handpose-detection",
   "private": true,
   "dependencies": {
     "@tensorflow-models/handpose": "^0.0.7",
@@ -37,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
