@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/handpose-detection/static/css/main.073c9b0a.css",
-    "main.js": "/handpose-detection/static/js/main.ae512622.js",
-    "static/js/787.04ff5025.chunk.js": "/handpose-detection/static/js/787.04ff5025.chunk.js",
-    "index.html": "/handpose-detection/index.html",
-    "main.073c9b0a.css.map": "/handpose-detection/static/css/main.073c9b0a.css.map",
-    "main.ae512622.js.map": "/handpose-detection/static/js/main.ae512622.js.map",
-    "787.04ff5025.chunk.js.map": "/handpose-detection/static/js/787.04ff5025.chunk.js.map"
+    "main.css": "/Handpose-Detection-App/static/css/main.073c9b0a.css",
+    "main.js": "/Handpose-Detection-App/static/js/main.defdc2d5.js",
+    "static/js/787.04ff5025.chunk.js": "/Handpose-Detection-App/static/js/787.04ff5025.chunk.js",
+    "index.html": "/Handpose-Detection-App/index.html",
+    "main.073c9b0a.css.map": "/Handpose-Detection-App/static/css/main.073c9b0a.css.map",
+    "main.defdc2d5.js.map": "/Handpose-Detection-App/static/js/main.defdc2d5.js.map",
+    "787.04ff5025.chunk.js.map": "/Handpose-Detection-App/static/js/787.04ff5025.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ae512622.js"
+    "static/js/main.defdc2d5.js"
   ]
 }
